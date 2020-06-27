@@ -6,3 +6,5 @@ Repo sucessfully created
 Second day on git 
 
 Pull again
+
+New dir pull
